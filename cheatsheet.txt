@@ -1,0 +1,12 @@
+gedit : create, edit text files
+git : work with a code repository
+git clone : clone your repository
+git add filename : add a file to your repository
+git commit -m : commit to your repository
+git push : push changes back to github.com (NOTE: must add, commit, and push to save files)
+terminal : control your computer on the command line
+cd : open a folder
+cat : open a file
+ls : show file index
+gedit (filename) & : allows you to continue editing terminal while working on a file
+ADDITIONAL NOTE: Press Tab key to autocomplete pieces of text!! Do not forget this!!
