@@ -1,0 +1,20 @@
+NOTE: If it isn't already obvious, hit enter after typing your command to activate it.
+
+
+Enter the classroom
+Log into your computer, your email, and github
+Open terminal
+Clone your repository by pasting in the saved link/command that you have in your email, in my case: git clone --config="http.proxy=http://sienna2169:chocolate@192.168.2.1:8080" https://github.com/sienna2169-cmis/sienna2169-cmis-wd.git
+Type the command: ls ,to view all the files
+Use the command cd (repository name) ,to change directories to your repository, where all your files are. In my case it is sienna2169-cmis-wd
+Use the command ls again to display all the files in your repository
+Type the command: gedit file.txt (to create the file called file.txt)
+Edit the file in whatever way you are required to 
+Once you are done, save and close the file.
+Now, you must add the new file into your repository. This can be done using the command: git add file.txt
+Next, you want to commit your repository. Use the command: git commit -m "Commit message" (NOTE: the commit message can be a brief description of what you edited or did. You do not actually write 'commit message' inside the quotation marks. In this case, it could be something like: git commit -m "Added a file called file.txt"). Commiting your repository will create a sort of snapshot of your work at that moment, like a milestone in case you have to revert back.
+Next, you will push your repository back to github. This is done with the command: git push 
+Enter your username and password for github.com 
+Open github to check if your repository has been updated
+Log out of everything and shut down your computer
+Leave class.
