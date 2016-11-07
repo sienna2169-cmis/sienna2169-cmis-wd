@@ -10,3 +10,5 @@ cat : open a file
 ls : show file index
 gedit (filename) & : allows you to continue editing terminal while working on a file
 ADDITIONAL NOTE: Press Tab key to autocomplete pieces of text!! Do not forget this!!
+python -m SimpleHTTPServer (lets you access a server thingy eyoo)
+
