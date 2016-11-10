@@ -11,4 +11,7 @@ ls : show file index
 gedit (filename) & : allows you to continue editing terminal while working on a file
 ADDITIONAL NOTE: Press Tab key to autocomplete pieces of text!! Do not forget this!!
 python -m SimpleHTTPServer (lets you access a server thingy eyoo)
+sftp username@cmis-hsteacher ----This allows you to log into the production server
+put *filename* --- this allows you to transfer a local file to the production server. Only works if you are in the correct folder at each destination.
+!ls --- lists all your local files
 
