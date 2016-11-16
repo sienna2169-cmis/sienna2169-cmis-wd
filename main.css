@@ -1,12 +1,59 @@
 html { 
-	background-color:#DFFFF8;
 	border: solid 3px #99FFCC;
-	
+	background-image: url("http://www.domgroup.no/wp-content/themes/DOM/images/bg-gradient.jpg");
+
 }
+	
 
 h1 { 
+	padding-top: 30px;
 	font-family: georgia;
 	color: #8D8DFD;
 	word-spacing: 15px;
+	text-align: center;
 	
+	
+
+
+}
+
+h2 {
+	color: #9999ff;
+	text-decoration: underline;
+	
+
+}
+
+p {
+
+	
+
+}
+
+main {
+
+	background-image: url("http://pngimg.com/upload/small/camomile_PNG666.png");
+	background-repeat: no-repeat;
+	background-position: right;
+	border-left: solid 3px #CCCCFF;
+	border-top: solid 3px #9999ff;
+	border-right: solid 3px #E6E6FF;
+	border-bottom: solid 3px #B3B3FF;
+	padding-bottom: 30px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	padding-left: 5px;
+	
+	
+
+}
+
+footer { 
+	background-color:#DFFFF8;
+	outline: #BB99FF dotted thin;
+	padding: 10px 5px 5px 10px;
+}
+
+
+
 	
