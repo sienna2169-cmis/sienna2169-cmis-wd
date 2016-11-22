@@ -1,0 +1,45 @@
+html {
+	background-color: white;
+
+}
+
+h1 { 
+	background-color: green;
+	color: yellow;
+	font-weight: bold;
+	font-style: italic;
+	border-bottom: dashed 5px yellow;
+	font-family: Impact, charcoal, sans-serif;
+}
+p {
+	background-color: red;
+	color: blue;
+	font-family: Impact, charcoal, sans-serif;
+	font-style: italic;
+	border-bottom: dashed 10px yellow;
+	line-height: 30px;
+	
+	
+
+}
+
+h2 {
+
+	background-color: purple;
+	color: yellow;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+	background-color: yellow;
+	color: purple;
+	font-family: Arial, Helvetica, sans-serif;
+	border-top: dashed 2px purple;
+
+}
+
+p2 { 
+	color: blue;
+	font-family: Arial, Helvetica, sans-serif;
+	
+	
