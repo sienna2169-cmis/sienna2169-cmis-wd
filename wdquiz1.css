@@ -58,9 +58,16 @@ footer {
 	font-size: 24px;
 	width: 50%;
 	padding-bottom: 20px;
+	border-right: solid 800px black;
 	
 }
+h4 {
+	border-left: 60px groove red;
+	border-right: 1230px groove red;
+	width: 15%;
 
+
+}
 
 
 
