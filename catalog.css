@@ -1,0 +1,87 @@
+/*light to dark:
+
+FFD8AA
+D4A46A
+AA7639
+804F15
+552E00
+
+*/
+
+
+html {
+	background-color: #804F15;
+	font-family: "Lucida Console", Monaco, monospace;
+	color: #552E00;
+	margin: 30px;
+	
+
+}
+
+header {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;	
+	
+
+
+}
+
+article {
+	margin: 10px;
+	border: solid 5px #AA7639;
+	padding: 7px 7px 7px 7px;
+	width: 70%;
+
+
+
+}
+
+img {
+	border-radius: 8px;
+
+}
+
+header h2 {
+	font-size: 130%;
+	color: #804F15;
+
+}
+
+h1 {
+	font-size: 250%;
+	text-decoration: underline;
+	background-color: #D4A46A;
+	opacity: 0.8;
+	
+	
+
+
+}
+
+header, footer, nav, main {
+
+	border: solid 2px #552E00;;
+	padding: 10px 10px 10px 10px;
+	background-color: #FFD8AA;
+}
+
+main {
+	margin: 5px;
+	padding: 5px 5px 5px 5px;
+	
+
+
+}
+
+footer {
+	font-size: 60%
+
+
+}
+
+main h2 {
+	background-color: #D4A46A;
+	opacity: 0.6;
+
+}
+
