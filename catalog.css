@@ -1,4 +1,4 @@
-/*light to dark:
+/* colors from light to dark:
 
 FFD8AA
 D4A46A
@@ -13,16 +13,18 @@ html {
 	background-color: #804F15;
 	font-family: "Lucida Console", Monaco, monospace;
 	color: #552E00;
-	margin: 30px;
-	
-
+	margin: 70px;
+    
 }
+
 
 header {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	text-align: center;	
-	
-
+	background-image: url(cartoonbread);
+    background-repeat: repeat-x;
+    background-position: right;
+    background-origin: content-box;
 
 }
 
@@ -44,14 +46,14 @@ img {
 header h2 {
 	font-size: 130%;
 	color: #804F15;
-
+    background-color: bisque;
 }
 
 h1 {
 	font-size: 250%;
 	text-decoration: underline;
 	background-color: #D4A46A;
-	opacity: 0.8;
+	opacity: 0.9;
 	
 	
 
@@ -68,14 +70,16 @@ header, footer, nav, main {
 main {
 	margin: 5px;
 	padding: 5px 5px 5px 5px;
-	
+    background-image: url(sidebreadmaybe.png);
+    background-position: right;
+    background-repeat: repeat-y;
 
 
 }
 
 footer {
-	font-size: 60%
-
+	font-size: 50%
+          
 
 }
 
@@ -84,4 +88,31 @@ main h2 {
 	opacity: 0.6;
 
 }
+
+li {
+   border: solid 1px #552E00;
+    padding-left: 5px;
+    padding-top: 2px;
+    padding-bottom: 15px;
+    border-radius: 40px;
+    
+}
+
+ul li {
+    background-color: burlywood;
+    margin: 5px;
+    
+    
+}
+
+ul {
+   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+        list-style-image: url(verysmallroll.png);
+        width: 70%;
+}
+
+a {
+    color: saddlebrown;
+}
+
 
